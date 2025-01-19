@@ -1,0 +1,9 @@
+var num1 = 10;
+var num2 = 17;
+var sum = num1 + num2;
+console.log("Sum = ", sum);
+alert("Sum = ", num1 + num2);
+// alert("subtraction = ", num1 - num2);
+// alert("Multiplication = ", num1 * num2);
+// alert("Division = ", num1 / num2);
+// alert("modulus = ", num1 % num2);
